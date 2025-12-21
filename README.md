@@ -99,7 +99,7 @@ Minha jornada é movida pela curiosidade e pelo desejo de aprender. Estou constr
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="195" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugal88&layout=donut&theme=dracula" 
   />
 
