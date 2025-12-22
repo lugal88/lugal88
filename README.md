@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mathematics_&_Data-F7D9DA?style=for-the-badge&logoColor=4A4A4A" />
-  <img src="https://img.shields.io/badge/AI_Developer-E8E8E8?style=for-the-badge&logoColor=4A4A4A" />
-  <img src="https://img.shields.io/badge/Future_ML_Engineer-F7D9DA?style=for-the-badge&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/AI-E8E8E8?style=for-the-badge&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/ML_Engineer-F7D9DA?style=for-the-badge&logoColor=4A4A4A" />
 </p>
 
 ---
