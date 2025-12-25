@@ -84,23 +84,3 @@ Tenho curiosidade e gosto de aprender. Estou construindo minha base técnica e e
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lugal88&show_icons=true&theme=dracula" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="195" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugal88&layout=donut&theme=dracula" 
-  />
-
-</p>
