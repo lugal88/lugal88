@@ -12,13 +12,11 @@
 ### 🌷 Sobre mim
 
 
-Sou graduanda em Matemática e Gestão de Dados, onde estou dando meus primeiros passos na carreira acadêmica e na área de dados. Atualmente, faço estágio em IA, e estou explorando o universo da IA Generativa para criar soluções que facilitem o dia a dia dos negócios.
-
-Tenho curiosidade e gosto de aprender. Estou construindo minha base técnica e estudando para aprimorar meus conhecimentos na área de dados.
+Estou cursando graduação em Matemática e Gestão de Dados. No momento, estou estagiando na área de IA e explorando o mundo da IA generativa.
 
 * ☁️ Atualmente estudando: LLMs Engineering & n8n.
 * 📈 Meu foco: Machine Learning Engineer / AI Engineer.
-* 🌱 Em constante aprendizado com: Python, SQL e IA.
+* 🌱 Sempre estudando: Python, SQL e IA.
 * 🎀 Acredito que a tecnologia pode ser poderosa, precisa e, ao mesmo tempo, elegante.
 
 ---
