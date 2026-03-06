@@ -12,12 +12,10 @@
 ### 🌷 Sobre mim
 
 
-Estou cursando graduação em Matemática e Gestão de Dados. No momento, estou estagiando na área de IA e explorando o mundo da IA generativa.
+Estou cursando graduação em Bacharelado em Inteligência Artificial (BIA). No momento, faço etágia na área de IA  e Automação e explorando o mundo dos dados.
 
-* ☁️ Atualmente estudando: LLMs Engineering & n8n.
+* ☁️ Atualmente estudando: LLMs Engineering.
 * 📈 Meu foco: Machine Learning Engineer / AI Engineer.
-* 🌱 Sempre estudando: Python, SQL e IA.
-* 🎀 Acredito que a tecnologia pode ser poderosa, precisa e, ao mesmo tempo, elegante.
 
 ---
 
