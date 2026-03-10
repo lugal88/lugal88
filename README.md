@@ -14,7 +14,6 @@
 
 Estou cursando graduação em Bacharelado em Inteligência Artificial (BIA). No momento, faço estágio na área de IA  e Automação, explorando o mundo dos dados.
 
-* ☁️ Atualmente estudando: LLMs Engineering.
 * 📈 Meu foco: Machine Learning Engineer / AI Engineer.
 
 ---
